@@ -12,7 +12,7 @@ pasta_para_testar_imagens = os.path.join(pasta_raiz, "Mixed_Foot")
 pasta_modelos = os.path.join(pasta_raiz, "Modelos_treinados")
 
 # Parâmetros
-definir_tamanho_imagem = (128, 128) # Padroniza as imagens em 128x128 pixels
+definir_tamanho_imagem = (128, 128) # Padroniza as imagens em 128x128 pixels.
 
 # Verificar e criar diretórios, se necessário
 verificar_pastas(pasta_saudaveis)
